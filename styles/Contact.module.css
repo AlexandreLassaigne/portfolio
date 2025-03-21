@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "Inria serif";
+  src: url("../fonts/InriaSerif-Regular.ttf");
+  font-display: swap;
+}
+.text {
+  margin-left: 40px;
+  font-family: "Inria serif";
+}
+
+.form {
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.nom {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  background-color: #ffffff;
+  border: solid 1px;
+  border-radius: 5px;
+  height: 30px;
+  width: 300px;
+  margin: 10px;
+  padding-left: 5px;
+  font-family: "Inria serif";
+}
+
+.coordonees {
+  display: flex;
+  justify-content: center;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+}
+
+.projet {
+  background-color: #ffffff;
+  font-family: "Inria serif";
+  font-size: 14px;
+  border-radius: 5px;
+  height: 200px;
+  width: 610px;
+  max-width: 700px;
+  margin: 10px;
+  max-height: 250px;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.messageError {
+  color: #ff4500;
+  font-size: 14px;
+  margin-bottom: 10px;
+  font-family: "Inria serif";
+}
+
+.messageEnvoye {
+  font-size: 14px;
+  margin-bottom: 10px;
+  font-family: "Inria serif";
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  border: solid 1px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.button:hover {
+  background-color: rgba(131, 190, 255, 0.8);
+  color: #ffffff;
+}
+
+@media (max-width: 750px) {
+  .text {
+    font-size: 32px;
+  }
+  .input {
+    height: 30px;
+    width: 200px;
+  }
+  .projet {
+    height: 100px;
+    width: 400px;
+    max-height: 250px;
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 480px) {
+  .text {
+    font-size: 24px;
+  }
+  .input {
+    height: 30px;
+    width: 130px;
+  }
+  .projet {
+    height: 100px;
+    width: 300px;
+    max-width: 320px;
+    max-height: 200px;
+  }
+}

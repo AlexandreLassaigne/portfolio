@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Inria serif";
+  src: url("../fonts/InriaSerif-Regular.ttf");
+  font-display: swap;
+}
+
+.projet{
+  margin-bottom: 30px;
+}
+
+.photos {
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 10px 5px 5px rgba(64, 63, 63, 0.8);
+}
+
+.titleModal {
+  font-family: "Inria serif";
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.descriptionModal {
+  font-family: "Inria serif";
+  margin-bottom: 10px;
+}
+
+.liens {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.icon {
+  color: black;
+  font-size: 60px;
+}
+
+.enCours {
+  text-align: center;
+  font-family: 'Inria serif';
+  font-size: 20px;
+}
+
+.button {
+  border-radius: 5px;
+  height: 40px;
+  color: black;
+  background-color: rgb(131, 190, 255);
+}
+
+.video {
+  border-radius: 10px;
+}

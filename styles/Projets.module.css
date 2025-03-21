@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "Inria serif";
+  src: url("../fonts/InriaSerif-Regular.ttf");
+  font-display: swap;
+}
+.text {
+  margin-left: 40px;
+  font-family: "Inria serif";
+  margin-bottom: 20px;
+}
+
+.projets {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.photos {
+  border: solid 1px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.titleModal {
+  font-family: "Inria serif";
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.descriptionModal {
+  font-family: "Inria serif";
+  margin-bottom: 10px;
+}
+
+.lien {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.icon {
+  color: black;
+  font-size: 60px;
+}
+
+.button {
+  border-radius: 5px;
+  height: 40px;
+  color: black;
+  background-color: rgb(131, 190, 255);;
+}
+
+@media (max-width: 1024px) {
+  .text {
+    font-size: 36px;
+  }
+}
+@media (max-width: 850px) {
+  .text {
+    font-size: 32px;
+  }
+}
+@media (max-width: 600px) {
+  .text {
+    font-size: 28px;
+  }
+}
+@media (max-width: 480px) {
+  .text {
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Inria serif';
+    src: url('../fonts/InriaSerif-Regular.ttf');
+    font-display: swap;
+  }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    z-index: 1000;
+    top: 0px;
+    background-color: rgba(31, 28, 28,0.8);
+    position: fixed;
+}
+.lien{
+    text-decoration: none;
+    color : white;
+    cursor: pointer;
+    margin : 15px;
+    font-size: 20px;
+    font-family: 'Inria serif';
+
+}
+.icon{
+    text-decoration: none;
+    color : white;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 15px;
+}
+
+.logo {
+    margin-top: auto;
+}
+
+.lien:hover , .icon:hover{
+    text-decoration: none;
+    color:  rgb(131, 190, 255);
+}
+
+@media (max-width : 1024px){
+    .lien{
+      font-size: 18px;
+    }
+    .logo {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .icon{
+      font-size: 35px;
+    }
+  }
+  @media (max-width : 850px){
+    .lien{
+      font-size: 16px;
+      margin: 10px 10px;
+    }
+    .icon{
+      font-size: 25px;
+      margin: 10px 10px;
+    }
+
+  }
+  @media (max-width : 600px){
+    .lien{
+      font-size: 12px;
+      margin: 10px 5px;
+    }
+    .icon{
+      font-size: 20px;
+      margin-top: 7px;
+    }
+  }
+  @media (max-width : 480px){
+    .lien{
+      font-size: 10px;
+      margin: 5px;
+    }
+    .icon{
+      font-size: 15px;
+    }
+  }

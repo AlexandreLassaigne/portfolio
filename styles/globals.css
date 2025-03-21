@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Inria serif';
+  src: url('../fonts/InriaSerif-Regular.ttf');
+  font-display: swap;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inria serif';
+}
+
+* {
+  box-sizing: border-box;
+}

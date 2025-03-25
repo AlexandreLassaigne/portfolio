@@ -5,7 +5,6 @@ import projets from '../utils/projets'
 export default function Projets() {
 
   const carte = projets.map((data, i) => {
-    console.log(data.image)
     return(
       <Projet
       key={i}

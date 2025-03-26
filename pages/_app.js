@@ -10,7 +10,7 @@ function App({ Component, pageProps }) {
           name="description"
           content="Voici mon portfolio décrivant mes stacks et mes projets réalisés"
         />
-        <link rel="icon" type="image/png" href="favicon.png" />
+        <link rel="icon" type="image/png" href="favicon.png" alt='logo portfolio' />
       </Head>
       <Component {...pageProps} />
     </>

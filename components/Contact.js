@@ -57,6 +57,10 @@ export default function Contact() {
     }
   };
 
+  console.log(process.env.NEXT_PUBLIC_SERVICE_ID);
+  console.log(process.env.NEXT_PUBLIC_TEMPLATE_ID);
+  console.log(process.env.NEXT_PUBLIC_PUBLIC_KEY);
+
   return (
     <div id="contact">
       <h1 className={styles.text}>Contactez moi</h1>

@@ -1,12 +1,20 @@
 const projets = [
     {
+        image : '/weatherapp-logo.webp',
+        title : 'WeatherApp',
+        description : `Une application météo qui permet de rechercher la météo d'une ville, de conserver un historique des recherches et d'ajouter des villes en favoris.`,
+        technologies : 'React, Redux, Node.js, Express.js, MongoDB',
+        lienGit : 'https://github.com/AlexandreLassaigne/WeatherApp---frontend',
+        lienVercel : 'https://photo-frontend-eight.vercel.app/portfolio',
+        textButton : 'En cours'
+    },{
         image : '/solene-logo2.png',
         title : 'Solene Doux Photographie',
-        description : `Site web pour une photographe permettant de montrer son portfolio ainsi que ses prestations et tarifs. Un page contact pour avoir la possibilité de la contacter pour plus d'informations`,
+        description : `Un site web pour une photographe mettant en avant son portfolio, ses prestations et ses tarifs, avec une page contact pour faciliter les demandes d’informations.`,
         technologies : 'React',
         lienGit : 'https://github.com/AlexandreLass/Solene-Doux-Photographie',
-        lienVercel : 'https://github.com/AlexandreLass/Solene-Doux-Photographie',
-        textButton : 'En cours'
+        lienVercel : 'https://photo-frontend-eight.vercel.app/portfolio',
+        textButton : 'Voir mon projet'
     },
     {
         image : '/ProgressPulse-logo.png',

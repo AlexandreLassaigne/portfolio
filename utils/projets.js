@@ -13,7 +13,7 @@ const projets = [
         description : `Un site web pour une photographe mettant en avant son portfolio, ses prestations et ses tarifs, avec une page contact pour faciliter les demandes d’informations.`,
         technologies : 'React',
         lienGit : 'https://github.com/AlexandreLass/Solene-Doux-Photographie',
-        lienVercel : 'https://photo-frontend-eight.vercel.app/portfolio',
+        lienVercel : 'https://photo-frontend-eight.vercel.app/',
         textButton : 'Voir mon projet'
     },
     {

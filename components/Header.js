@@ -27,7 +27,7 @@ export default function Header() {
             <FaLinkedin />
           </Link>
           <Link
-            href="https://github.com/AlexandreLass?tab=repositories"
+            href="https://github.com/AlexandreLassaigne?tab=repositories"
             target="_blank"
             className={styles.icon}
           >

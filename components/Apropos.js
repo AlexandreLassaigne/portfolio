@@ -17,17 +17,19 @@ export default function Apropos() {
         />
         <div className={styles.presentationTexte}>
           <p>
-            Je m'appelle Alexandre Lassaigne, j'ai 29 ans et je viens de me
-            reconvertir dans le développement web et mobile. Récemment diplômé
-            en tant que Concepteur Développeur d'Applications Web & Mobiles à La
-            Capsule, j'ai été passionné par cette formation et par les
-            opportunités qu'offre ce métier. Motivé par l'envie d'appliquer mes
-            compétences et de continuer à apprendre, j'ai acquis une solide
-            expérience en React, React Native et Express.js à travers des
-            projets concrets, réalisés en équipe. Curieux et persévérant, je
-            suis aujourd’hui à la recherche d'une alternance d'un an à partir de
-            Septembre 2025 poste pour mettre à profit mes connaissances et
-            contribuer activement au développement d’applications innovantes.
+            Je m'appelle Alexandre Lassaigne, j'ai 29 ans et je me suis
+            récemment reconverti dans le développement web et mobile. Diplômé en
+            tant que Concepteur Développeur d’Applications Web & Mobiles après
+            une formation intensive à La Capsule, j’ai découvert une véritable
+            passion pour ce métier et les nombreuses opportunités qu’il offre.
+            Au cours de cette formation, j’ai pu acquérir une solide expérience
+            en React, React Native et Express.js, en travaillant sur des projets
+            concrets, en équipe. Cette expérience m’a permis de développer non
+            seulement des compétences techniques, mais aussi un réel esprit
+            collaboratif. Curieux, persévérant et motivé, je suis aujourd’hui à
+            la recherche d’une alternance d’un an à partir de septembre 2025,
+            afin de continuer à progresser tout en contribuant activement au
+            développement d’applications innovantes.
           </p>
         </div>
       </div>

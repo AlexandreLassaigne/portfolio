@@ -25,9 +25,9 @@ export default function Apropos() {
             compétences et de continuer à apprendre, j'ai acquis une solide
             expérience en React, React Native et Express.js à travers des
             projets concrets, réalisés en équipe. Curieux et persévérant, je
-            suis aujourd’hui à la recherche de mon premier poste pour mettre à
-            profit mes connaissances et contribuer activement au développement
-            d’applications innovantes.
+            suis aujourd’hui à la recherche d'une alternance d'un an à partir de
+            Septembre 2025 poste pour mettre à profit mes connaissances et
+            contribuer activement au développement d’applications innovantes.
           </p>
         </div>
       </div>

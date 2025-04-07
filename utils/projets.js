@@ -5,8 +5,8 @@ const projets = [
         description : `Une application météo qui permet de rechercher la météo d'une ville, de conserver un historique des recherches et d'ajouter des villes en favoris.`,
         technologies : 'React, Redux, Node.js, Express.js, MongoDB',
         lienGit : 'https://github.com/AlexandreLassaigne/WeatherApp---frontend',
-        lienVercel : 'https://photo-frontend-eight.vercel.app/portfolio',
-        textButton : 'En cours'
+        lienVercel : 'https://weather-app-frontend-chi-rose.vercel.app/',
+        textButton : 'Voir mon projet'
     },{
         image : '/solene-logo2.png',
         title : 'Solene Doux Photographie',

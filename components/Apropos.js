@@ -17,19 +17,18 @@ export default function Apropos() {
         />
         <div className={styles.presentationTexte}>
           <p>
-            Je m'appelle Alexandre Lassaigne, j'ai 29 ans et je me suis
-            récemment reconverti dans le développement web et mobile. Diplômé en
-            tant que Concepteur Développeur d’Applications Web & Mobiles après
-            une formation intensive à La Capsule, j’ai découvert une véritable
-            passion pour ce métier et les nombreuses opportunités qu’il offre.
-            Au cours de cette formation, j’ai pu acquérir une solide expérience
-            en React, React Native et Express.js, en travaillant sur des projets
-            concrets, en équipe. Cette expérience m’a permis de développer non
-            seulement des compétences techniques, mais aussi un réel esprit
-            collaboratif. Curieux, persévérant et motivé, je suis aujourd’hui à
-            la recherche d’une alternance d’un an à partir de septembre 2025,
-            afin de continuer à progresser tout en contribuant activement au
-            développement d’applications innovantes.
+            Je m'appelle Alexandre Lassaigne, j'ai 30 ans, fort d'une
+            reconversion réussie et titré Concepteur Développeur d'Applications,
+            j'apporte une expertise solide dans les technologies modernes du
+            développement web et mobile. Mon stack technique de prédilection
+            inclut : React, React Native et Express.js. Mon parcours intensif à
+            La Capsule, centré sur la réalisation de projets d'équipe concrets,
+            a forgé ma capacité à collaborer efficacement et à résoudre des
+            problématiques techniques complexes (comme en témoignent les
+            réalisations ci-dessous). Actuellement en Master Développeur
+            Full-Stack en alternance, je suis engagé dans une démarche
+            d'apprentissage continu, animé par la curiosité et la détermination
+            à concevoir des applications innovantes et performantes.
           </p>
         </div>
       </div>
